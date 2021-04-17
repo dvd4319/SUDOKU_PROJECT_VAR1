@@ -8,7 +8,7 @@ The file 'main_SUDOKU_dan.py' has 4 functions (methods): solve(), valid(), print
 
 
 ```bash 
-python main_SUDOKU_dan.py <input file name>
+python3 main_SUDOKU_dan.py <input file name>
 ```
 ## 1. FUNCTION (METHOD) 1 
 
