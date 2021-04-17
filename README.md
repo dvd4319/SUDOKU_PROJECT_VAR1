@@ -7,7 +7,9 @@ Python Version 3.0+
 The file 'main_SUDOKU_dan.py' has 4 functions (methods): solve(), valid(), print_board(), find_empty() 
 
 
-
+```bash 
+python main_SUDOKU_dan.py <input file name>
+```
 ## 1. FUNCTION (METHOD) 1 
 
 print_board(board) - A method to print the sudoku puzzle in a visually appealing format
