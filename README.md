@@ -1,9 +1,11 @@
 # SUDOKU_PROJECT_VAR1
-Sudoku Solver
 
 Python Version 3.0+
 
-# The file 'main_SUDOKU_dan.py' has 4 functions (methods): solve(), valid(), print_board(), find_empty() 
+# Sudoku Solver
+"""
+The file 'main_SUDOKU_dan.py' has 4 functions (methods): solve(), valid(), print_board(), find_empty() 
+"""
 
 """
 FUNCTION (METHOD) 1 
